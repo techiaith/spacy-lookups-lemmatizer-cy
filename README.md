@@ -1,3 +1,5 @@
+[English text below](#welsh-language-lemmatization-package-for-spacy)
+
 # Pecyn lemateiddio Cymraeg ar gyfer spaCy
 Fersiwn wedi'i becynnu o spacy-lookups-data gyda data lemateiddio Cymraeg.
 
